@@ -1,2 +1,0 @@
-# TyCynPersonal
-Created with CodeSandbox
